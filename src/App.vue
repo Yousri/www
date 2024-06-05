@@ -17,7 +17,7 @@
           Designed by Spencer Woo. Open source on
           <a href="https://github.com/spencerwooo/portfolio">GitHub</a>.
         </p>
-        <p id="footer-copyright">©2019 - {{ getYear() }} Yousri Yan</p>
+        <p id="footer-copyright">©2009 - {{ getYear() }} Yousri Yan</p>
       </div>
     </div>
   </div>
