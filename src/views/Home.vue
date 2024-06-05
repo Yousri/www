@@ -5,12 +5,14 @@
       <h1>Yousri Yan</h1>
     </div>
     <div class="title-desc-container">
+      <a id="sre" href="https://sre.google" target="_blank" rel="noopener noreferrer">
       <img class="title-font" src="./../assets/images/sre.png" />SRE
       <span>/</span>
+      <a id="devops" href="https://aws.amazon.com/devops/what-is-devops/" target="_blank" rel="noopener noreferrer">
       <img class="title-font" src="./../assets/images/devops.png" />DevOps
       <span>/</span>
-      <a id="blog" href="https://blog.yousri.org" target="_blank" rel="noopener noreferrer"
-        ><img class="title-font" src="./../assets/images/zeit.svg" />Blogger</a
+      <a id="blog" href="https://blog.yousri.org" target="_blank" rel="noopener noreferrer">
+      <img class="title-font" src="./../assets/images/zeit.svg" />Blogger</a
       >
     </div>
     <div class="article">
