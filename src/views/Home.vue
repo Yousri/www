@@ -33,7 +33,8 @@
 
       <h2>Devices</h2>
       <ul>
-        <li>🖥️ Mac mini 2 / 💻 MacBook Pro (16-inch, 2019)</li>
+        <li>🖥️ Mac mini 2</li>
+        <li>💻 MacBook Pro (16-inch, 2019)</li>
         <li>📱 iPhone 15 Pro / iPhone 12 mini</li>
         <li>📝 iPad mini 4</li>
         <li>🎧 AirPods 3</li>
