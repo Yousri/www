@@ -22,7 +22,7 @@
 	Job as <i>SRE</i> and <i>DevOps</i>, part-time as <i>DBA</i>.<br>
 	Come from a small village of Xiamen, and prefer like country life to city life.<br>
 	You can follow me on <a href="https://twitter.com/yousri" target="_blank" rel="noopener noreferrer">Twitter</a> and <a href="https://weibo.com/yousri" target="_blank" rel="noopener noreferrer">Weibo</a>.<br>
-	About life photo on <a href="https://instagram.com/yousri" target="_blank" rel="noopener noreferrer">Instagram</a>.
+	About life photo on <a href="https://instagram.com/imyousri" target="_blank" rel="noopener noreferrer">Instagram</a>.
       </p>
 
       <h2>Interests</h2>
@@ -33,8 +33,10 @@
 
       <h2>Devices</h2>
       <ul>
-        <li>⚫ MacBook Pro (16-inch, 2019)</li>
-        <li>🔵 iPhone mini 12 / iPad mini 4 / AirPods 3</li>
+        <li>⚫ Mac mini 2 / MacBook Pro (16-inch, 2019)</li>
+        <li>🔵 iPhone Pro 15 / iPhone 12 mini</li>
+        <li>🔵 iPad mini 4</li>
+        <li>⚫ AirPods 3</li>
       </ul>
 
       <h2>Contacts</h2>
