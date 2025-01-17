@@ -33,20 +33,20 @@
 
       <h2>Devices</h2>
       <ul>
-        <li>🟠 🖥️ Mac mini 2 / 💻 MacBook Pro (16-inch, 2019)</li>
-        <li>🔵 📱 iPhone 15 Pro / iPhone 12 mini</li>
-        <li>🟢 📝 iPad mini 4</li>
-        <li>🟠 🎧 AirPods 3</li>
+        <li>🖥️ Mac mini 2 / 💻 MacBook Pro (16-inch, 2019)</li>
+        <li>📱 iPhone 15 Pro / iPhone 12 mini</li>
+        <li>📝 iPad mini 4</li>
+        <li>🎧 AirPods 3</li>
       </ul>
 
       <h2>Contacts</h2>
       <ul>
         <li>
-          <b>IM：</b>
+          <b>🟠 IM：</b>
           <a href="https://t.me/imyousri" target="_blank">Telegram</a>
         </li>
         <li>
-          <b>Email：</b>
+          <b>🔵 Email：</b>
           <a href="mailto:qingxianyan@gmail.com">qingxianyan#gmail.com</a>
         </li>
       </ul>
